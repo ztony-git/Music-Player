@@ -3,7 +3,7 @@ Academic project created for CSC214-401 Systems Programming.
 
 Uses public libraries for audio control & hardware interaction.
 
-Designed to be used on a Raspberry Pi + breadboard.
+Designed to be used on a Raspberry Pi + breadboard. Playlist should consist of .wav files.
 
 ## Features
 - Play, pause, rewind, and fast-forward tracks
