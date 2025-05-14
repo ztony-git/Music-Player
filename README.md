@@ -1,5 +1,5 @@
 # Music Player
-Academic project created for CSC214-401 Systems Programming.
+Academic project created for CSC214-401 Systems Programming in the Fall 2024 semester.
 
 Uses public libraries for audio control & hardware interaction.
 
